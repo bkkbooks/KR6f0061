@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0061/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說無量清淨平等覺經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0361.xml
+    old_id: T12n0361
+hash: sha256:5800ab64e68cd03381873a8c4a8dad340132670b54f798c21108dbec48bc9af1

@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR6f0061/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0061/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說無量清淨平等覺經
+  identifiers:
+    krp: KR6f0061
+    cbeta: T12n0361
+    cbeta_old_id: T12n0361
+    authorityid: CA0003407
+    json_key: T0361
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0361.xml
+    old_id: T12n0361
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0061_000-T.yaml, hash: 'sha256:5800ab64e68cd03381873a8c4a8dad340132670b54f798c21108dbec48bc9af1'}
+  - {seq: 1, filename: KR6f0061_001-T.yaml, hash: 'sha256:f3a3badb8621ef58024b34b404996eb041382de3302caa4d2a2421d5952c480b'}
+  - {seq: 2, filename: KR6f0061_002-T.yaml, hash: 'sha256:ef5a676c7b37bdb48860dcafc6fca6e0b58603efe41cb65653c0a4c20f39cfe3'}
+  - {seq: 3, filename: KR6f0061_003-T.yaml, hash: 'sha256:7fe09851853e588a50b36475bae5fd687b1cbfa4a358f244ba5f2d52bba79fef'}
+  - {seq: 4, filename: KR6f0061_004-T.yaml, hash: 'sha256:5c13e80e914ad5c5e0bf964cb7d4ae246b9b793533b7a6b312270f88ee1efdb0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0061_000-T.markers.yaml, hash: 'sha256:011f696591fa24e1b8c969fdbcccf9e0c7310cb781ee7f8ceb529926b698886d'}
+  - {seq: 1, role: markers, filename: assets/KR6f0061_001-T.markers.yaml, hash: 'sha256:8d08f3b4c4e6bc26355fa8b98dc28a5f0c300c6a3158d6abef14231ade4d75b1'}
+  - {seq: 2, role: markers, filename: assets/KR6f0061_002-T.markers.yaml, hash: 'sha256:294f9afa35e910dac7ce8d4b4cfc0ff9abef85e8820979a01143ccc056c16a74'}
+  - {seq: 3, role: markers, filename: assets/KR6f0061_003-T.markers.yaml, hash: 'sha256:2fff93248b2fde330dc61fcd11ea5044b5cc6ac0a7f36f636e186a374700eeab'}
+  - {seq: 4, role: markers, filename: assets/KR6f0061_004-T.markers.yaml, hash: 'sha256:7643f392e8cb23ee0429ceb5b3efd9e4c3732e7fdc22247def48ae82adabe557'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0061_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6837
+  label: 佛說無量清淨平等覺經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0061_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8049
+  label: 佛說無量清淨平等覺經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0061_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7277
+  label: 佛說無量清淨平等覺經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6f0061_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6098
+  label: 佛說無量清淨平等覺經卷第四
+  type: juan
+  level: 1
+hash: sha256:c63b4ff1cfd7b9b526c6d27c62585d5343944c8676ecd1676bf15b8c6a1f6a9a

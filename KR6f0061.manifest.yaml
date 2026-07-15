@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6f0061/v1
 canonical_location: https://kanripo.org/bkk/KR6f0061/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說無量清淨平等覺經
   identifiers:
@@ -37,16 +37,16 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0061_000.yaml, hash: 'sha256:5800ab64e68cd03381873a8c4a8dad340132670b54f798c21108dbec48bc9af1'}
-  - {seq: 1, filename: KR6f0061_001.yaml, hash: 'sha256:f3a3badb8621ef58024b34b404996eb041382de3302caa4d2a2421d5952c480b'}
-  - {seq: 2, filename: KR6f0061_002.yaml, hash: 'sha256:ef5a676c7b37bdb48860dcafc6fca6e0b58603efe41cb65653c0a4c20f39cfe3'}
-  - {seq: 3, filename: KR6f0061_003.yaml, hash: 'sha256:7fe09851853e588a50b36475bae5fd687b1cbfa4a358f244ba5f2d52bba79fef'}
-  - {seq: 4, filename: KR6f0061_004.yaml, hash: 'sha256:5c13e80e914ad5c5e0bf964cb7d4ae246b9b793533b7a6b312270f88ee1efdb0'}
+  - {seq: 1, filename: KR6f0061_001.yaml, hash: 'sha256:359ef5aa8ad5c414884579a86ca4706d94be1efb497a8a4a94f17b71dc41ea1d'}
+  - {seq: 2, filename: KR6f0061_002.yaml, hash: 'sha256:a70479cee139129e7e69b1072e54625fd33cb8e8441c10c7c37296f265c9270d'}
+  - {seq: 3, filename: KR6f0061_003.yaml, hash: 'sha256:1b13d7e1f6e22ac889510fd4e822700d3bb4e0bab1197b3c6127e1b70ce4f4f7'}
+  - {seq: 4, filename: KR6f0061_004.yaml, hash: 'sha256:1b6ee87bc2d6ad648cddd6d31a07470e713f66ab981b3b5c34605ceacb941df5'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6f0061_000.markers.yaml, hash: 'sha256:c1eedced1617f1cab3cedd6544f3b9ce9d9629eb299d999b779f4616c216cc08'}
-  - {seq: 1, role: markers, filename: assets/KR6f0061_001.markers.yaml, hash: 'sha256:8fdd4d5b6cd30d74301bb6178aeb2f6db3ad4acc793f6c73a3c0d9e1e744e47d'}
-  - {seq: 2, role: markers, filename: assets/KR6f0061_002.markers.yaml, hash: 'sha256:41f44a0eafef0ec8a262315090bfaae03c614c2672c784ecb6b56d466fe8b10b'}
-  - {seq: 3, role: markers, filename: assets/KR6f0061_003.markers.yaml, hash: 'sha256:2409d9136767dcf957fd997f344e3f6c98b418baa46e4bf1c76999ce0c1d73dd'}
-  - {seq: 4, role: markers, filename: assets/KR6f0061_004.markers.yaml, hash: 'sha256:562354f7478ce242c3974a3641a5b2096c5cad2dbbb164b6bbae7d904bcb82b5'}
+  - {seq: 1, role: markers, filename: assets/KR6f0061_001.markers.yaml, hash: 'sha256:d284cf7b7bb1e8a27b210726841136d4e8d089c5a59668eb98a02adf8ae1a2b1'}
+  - {seq: 2, role: markers, filename: assets/KR6f0061_002.markers.yaml, hash: 'sha256:68219ed882b667b69050b7cb133bdb3608f4b0442c3d5cb9e8ec38a3c7a086ae'}
+  - {seq: 3, role: markers, filename: assets/KR6f0061_003.markers.yaml, hash: 'sha256:97f765379d69a102e2cbb610b1f6cd0469c12ee6d515305d7d87f40448f92f82'}
+  - {seq: 4, role: markers, filename: assets/KR6f0061_004.markers.yaml, hash: 'sha256:c143de7a2e1a98647564207d01fe273cdb23e9f00f4f9f1f6ff3fb9674dceb0b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -88,4 +88,7 @@ table_of_contents:
   label: 佛說無量清淨平等覺經卷第四
   type: juan
   level: 1
-hash: sha256:0657ec8d266cccee9ef36b2ece1a2a32881b4063fe7ec2ae3b01f7b176268671
+hash: sha256:f5c9fbae5155e27f046e3d9baafa8dc273daf6e1d3fc5146c1cb32b909df0064
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
